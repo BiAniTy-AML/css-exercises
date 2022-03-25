@@ -13,9 +13,9 @@ html {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(8, 90px);
-    gap: 10px;
+    grid-template-columns: 300px 900px;
+    grid-template-rows: 100px 100px 500px 100px;
+    gap: 15px;
 }
 
 .container div {
